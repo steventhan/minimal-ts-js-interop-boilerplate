@@ -1,0 +1,8 @@
+extension:
+  - js
+  - jsx
+  - ts
+  - tsx
+require:
+  ts-node/register
+recursive: true
